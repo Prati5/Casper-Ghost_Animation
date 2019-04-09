@@ -1,0 +1,5 @@
+How to run OpenGL funnctions in Terminal (LINUX):
+1. Press ctrl+shift+T
+2. Change the directory to where you have saved the program (cd yourDirectoryName).
+3. Execute g++ casperGhost.cpp -lGL -lGLU -lglut command.
+4. Execute ./a.out to see the final output.
